@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Jan 2023 01:45:48 at http://etcreg.nicepage.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://etcreg.nicepage.io/ -O1 "C:\My Web Sites\etccontact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:46:03	Warning: 	Retry after error -4 (No data (connection closed)) at link etcreg.nicepage.io/nicepage-site.css (from etcreg.nicepage.io/)
+01:46:03	Error: 	"Not Found" (404) at link etcreg.nicepage.io/"https://pixabay.com/get/g2c1aaf6494c33f4c6167938d516480607d4d17356aed2c5bb8e5e99c6f9e3620688cac34f6f307a81eee18bb165bd8e5e86c9a9decfec95a251dbecc8797f408_1280.jpg" (from etcreg.nicepage.io/)
+01:46:13	Warning: 	Retry after error -4 (No data (connection closed)) at link etcreg.nicepage.io/About.css (from etcreg.nicepage.io/About.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 28 links scanned, 24 files written (3131053 bytes overall) [1627666 bytes received at 21995 bytes/sec], 1796291 bytes transferred using HTTP compression in 13 files, ratio 14%, 1.8 requests per connection
+(1 errors, 2 warnings, 0 messages)
